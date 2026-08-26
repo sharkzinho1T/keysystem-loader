@@ -3,7 +3,7 @@
 -- ============================================
 
 local API_URL = "https://render-api-key-yn66.onrender.com/verify"
-local DISCORD_URL = "https://discord.gg/D3T4hWE2H7"
+local DISCORD_URL = "https://discord.gg/Yb4ywR78Ds"
 
 local Players = game:GetService("Players")
 local GuiService = game:GetService("GuiService")
